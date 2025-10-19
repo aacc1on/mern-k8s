@@ -23,7 +23,7 @@ Install these first:
 ### 1. Clone and Setup
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/aacc1on/mern-k8s.git
 cd mern-k8s
 ```
 
